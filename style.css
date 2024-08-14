@@ -1,0 +1,38 @@
+body {
+    font-family: 'merriweather', serif;
+    background-color: rgb(223, 211, 195);
+     }
+  
+    h1 {
+      color: whitesmoke;
+      background-color: rgb(197, 112, 93);
+      margin: 0 auto;
+      text-align: center;
+    }
+  
+    h2 {
+      color: #FAF8F1;
+      background-color: rgb(208, 184, 168);
+      margin: 0 auto;
+      text-align: center;
+    }
+  
+    p {
+      margin: 0 auto;
+      text-align: justify;
+    }
+  
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 25%;
+      }
+  
+    #weight {
+      font-weight: 900;
+  }
+  
+  #family {
+      font-family: 'Merriweather',serif;
+  }
